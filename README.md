@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Enzo 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Est%C3%A1gio+em+Tecnologia+da+Informa%C3%A7%C3%A3o;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full+Stack+em+forma%C3%A7%C3%A3o+-+SENAI;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full-Stack;Java;Angular;Spring+Boot;MySQL" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-capitani-a273a9316/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzocapitanivieira@gmail.com)
@@ -15,7 +15,7 @@
 
 ### 🎯 Sobre mim
 
-Estudante de **Ciência da Computação**, em busca de estágio na área de Tecnologia da Informação. Tenho interesse em programação, desenvolvimento de software, suporte técnico e atendimento ao cliente, gosto de aplicar o que aprendo, explorar novas tecnologias e contribuir com o time na resolução de problemas.
+Estudante de **Ciência da Computação**, em busca de estágio na área de Tecnologia da Informação. Tenho interesse em programação, desenvolvimento de software, suporte técnico e atendimento ao cliente — gosto de aplicar o que aprendo, explorar novas tecnologias e contribuir com o time na resolução de problemas.
 
 ---
 
@@ -125,7 +125,7 @@ Formação em andamento, com conclusão prevista para dezembro de 2026, cobrindo
 <img src="https://github-readme-stats.vercel.app/api?username=enzocapitani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocapitani&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=enzocapitani&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=enzocapitani&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
