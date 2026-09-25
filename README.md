@@ -15,7 +15,7 @@
 
 ### 🎯 Sobre mim
 
-Estudante de **Ciência da Computação**, em busca de estágio na área de Tecnologia da Informação. Tenho interesse em programação, desenvolvimento de software, suporte técnico e atendimento ao cliente — gosto de aplicar o que aprendo, explorar novas tecnologias e contribuir com o time na resolução de problemas.
+Estudante de **Ciência da Computação**, em busca de estágio na área de Tecnologia da Informação. Tenho interesse em programação, desenvolvimento de software, suporte técnico e atendimento ao cliente, gosto de aplicar o que aprendo, explorar novas tecnologias e contribuir com o time na resolução de problemas.
 
 ---
 
