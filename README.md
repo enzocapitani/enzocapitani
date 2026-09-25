@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Enzo 👋
+# Olá, eu sou o Enzo Capitani👋
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Full-Stack;Java;Angular;Spring+Boot;MySQL" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 
 ### 🎯 Sobre mim
 
-Estudante de **Ciência da Computação**, em busca de estágio na área de Tecnologia da Informação. Tenho interesse em programação, desenvolvimento de software, suporte técnico e atendimento ao cliente — gosto de aplicar o que aprendo, explorar novas tecnologias e contribuir com o time na resolução de problemas.
+Estudante de **Ciência da Computação**, em busca de estágio na área de Tecnologia da Informação. Tenho interesse em programação, desenvolvimento de software, suporte técnico e atendimento ao cliente, gosto de aplicar o que aprendo, explorar novas tecnologias e contribuir com o time na resolução de problemas.
 
 ---
 
